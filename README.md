@@ -158,7 +158,7 @@ Switch to the **Permissions** tab to see all policies attached to the group (and
 
 **Important Notes & Best Practices**
 - Always use IAM users and groups instead of the root account for everyday work.
-- Attach policies to groups whenever possible — it is much easier to manage permissions for many users.
-- The .csv file from Step 12 contains sensitive credentials — store it securely and delete it after use.
+- Attach policies to groups whenever possible. It is much easier to manage permissions for many users.
+- The .csv file from Step 12 contains sensitive credentials, store it securely and delete it after use.
 - Force password reset on first login (Step 7) improves security.
 - You can add the user to the group later if you create the user first (or attach policies directly as shown).
